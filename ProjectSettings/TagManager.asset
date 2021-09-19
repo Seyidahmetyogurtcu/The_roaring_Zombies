@@ -3,12 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - hand
+  - bullet
+  - ammo indicator
+  - gun
+  - bulletItem
+  - zombieSpawner
+  - health ui
+  - zombie
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
   - 
